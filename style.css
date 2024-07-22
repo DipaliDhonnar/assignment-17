@@ -1,0 +1,37 @@
+.text{
+    background-color:#ccffff ;
+    color:#1a53ff
+    ;
+    border:2px solid;
+    border-color:#00e6e6 ;
+    border-radius: 10px;
+    padding: 10px 30px 10px 20px;
+    margin: 30px ;
+    display: block;
+    width: 220px;
+    height: 370px;
+    font-size: 20px;
+}
+.text1{
+    border:2px solid;
+    border-color: #111112;
+    border-radius:10px;
+    padding: 25px 10x;
+    margin: 20px 20px;
+    display: block
+}
+.text2{
+    background-color: antiquewhite;
+    color:#058ef6 ;
+    border:2px solid;
+    border-color:#111112 ;
+    border-radius: 20px;
+    padding: 25px 10x;
+    margin: 20px 20px;
+    border-radius: none;
+}
+.text3
+{
+    padding: 20;
+    margin: 10px;
+}
